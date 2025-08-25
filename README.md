@@ -1,6 +1,7 @@
 # HR Analytics Dashboard
 
-📊 This project showcases an **HR Analytics Dashboard** built in [Power BI]
+📊 This project showcases an **HR Analytics Dashboard** built in Power BI.
+
 The dashboard provides insights into:
 - Employee attrition rate (16.12%)  
 - Department-wise attrition
